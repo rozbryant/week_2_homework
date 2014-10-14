@@ -5,3 +5,63 @@
   /* Make the invisible visible */
   border: thin red solid;
 }
+
+.header{
+  height: 200px;
+  background-color: lightgray;
+}
+a:link {
+  color: white;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  text-decoration: none
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.button{
+  background-color: blue;
+  color: white;
+  font-size: 13px;
+  float: left;
+  border-radius: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+}
+.leftmid1 {
+  float:left; width: 33%;
+}
+
+.centermid1 {
+  float: left; width: 33%;
+}
+
+.leftmid2 {
+  float:left; width: 33%;
+}
+.rightmid2 {
+  float: left; width: 66%;
+}
+img {
+  max-width: 66%;
+}
+.midleft3 {
+  float: left; width: 66%;
+}
+.midright3 {
+  float: left; width: 33%; height: 265px;
+}
+.midleft4 {
+  float: left;width: 33%;
+}
+.midcenter4 {
+  float: left; width: 33%;
+}
+.midright4 {
+  float: left; width: 33%;
+}

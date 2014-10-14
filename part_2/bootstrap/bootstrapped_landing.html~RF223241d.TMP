@@ -6,46 +6,24 @@
     * {
       border: thin red solid;
     }
-    a:link{
-      color: #FFFFFF;
-      text-decoration: none;
-    }
-    a:visited{
-      color: #FFFFFF
-    }
 
-    h1 {
-      background-color: gray;
-      height: 200px;
-    }
-    div {
-      text-align: center;
-      background-color: blue;
-      border-radius: 10%;
-    }
+
   </style>
 </head>
 <body>
-
   <h1>This is my awesome product (height: 200px)</h1>
 
   <h3>What Does It Do (33%)</h3>
   <p>This is what it does. Intrigued yet?</p>
-  <div>
-    <a href="#">Learn More</a>
-  </div>
+  <a href="#">Learn More</a>
 
   <h3>FAQ (33%)</h3>
   <p>You've got questions. We've got answers.</p>
-  <div>
-    <a href="#">Go to the FAQ</a>
-  </div>
+  <a href="#">Go to the FAQ</a>
 
   <h3>Purchase Now (33%)</h3>
   <p>Convinced?</p>
-  <div>
-    <a href="#">Buy Now</a>
-  </div>
+  <a href="#">Buy Now</a>
 
   <h3>Description (33%)</h3>
   <p>In this screenshot, you see how easy it is to do awesome stuff with our product.</p>
